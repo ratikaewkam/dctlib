@@ -33,3 +33,6 @@
 
 # main file
 main.cpp
+
+# build
+build/
